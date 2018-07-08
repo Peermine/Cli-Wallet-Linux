@@ -4,8 +4,9 @@
 ### Download Wallet-Cli
 
     wget http://peermine.com/index/linux-wallet.zip
-    unzip linux-wallet.zip wallet
-    cd wallet
+    unzip linux-wallet.zip
+    rm linux-wallet.zip
+    cd linux-wallet
 
 ### Open Permission
 
@@ -21,3 +22,7 @@
 ### Create Wallet
 
     ./simplewallet
+    O
+    Give name to wallet
+    Set a password
+    Copy your wallet address and your private key
