@@ -14,11 +14,7 @@
     chmod u+x miner
     chmod u+x peermined
     chmod u+x simplewallet
-    
-### Run Daemon
 
-    ./peermined
-    
 ### Create Wallet
 
     ./simplewallet
